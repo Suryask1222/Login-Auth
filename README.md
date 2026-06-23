@@ -1,4 +1,4 @@
-<div align="center"🚀 SimpleMe Login Auth></div>
+
 <div align="center">
 🔐 Secure Authentication System with Modern Dashboard
 
